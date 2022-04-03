@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Интернет-магазин</title>
+    
+</head>
+<body>
+<div id="app">
+    <div class="page">
+        <div class="content">
+            <header class="section header">
+                <div class="logo">Fresh-shop</div>
+                <div class="cart">
+
+                    <filter-el></filter-el>
+                    <cart ref="cart"></cart>
+                </div>
+            </header>
+            <main>
+                <section class="lead section">
+                    <div class="lead__content">
+                        <h1 class="lead__title">Свежие продукты с доставкой</h1>
+                        <p class="lead__subtitle">Привезём вашу корзину в течение дня!</p>
+                    </div>
+                </section>
+                <error ref="error"></error>
+                <products ref="products"></products>
+            </main>
+        </div>
+    </div>    
+</div>
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</body>
+</html>

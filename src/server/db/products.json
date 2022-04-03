@@ -1,0 +1,39 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Апельсины, 1кг.",
+    "price": 200,
+    "image": "oranges.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "Ягода замороженная, 400гр.",
+    "price": 350,
+    "image": "berry.jpg"
+    
+  },
+  {
+    "id_product": 123,
+    "product_name": "Свежая зелень, 1шт.",
+    "price": 90,
+    "image": "greens.jpg"
+  },
+  {
+    "id_product": 456,
+    "product_name": "Лимоны, 1кг.",
+    "price": 300,
+    "image": "lemon.jpg"
+  },
+  {
+    "id_product": 480,
+    "product_name": "Томаты, 1кг.",
+    "price": 420,
+    "image": "tomatoes.jpg"
+  },
+  {
+    "id_product": 420,
+    "product_name": "Баклажаны, 1кг.",
+    "price": 490,
+    "image": "eggplants.jpg"
+  }
+]
