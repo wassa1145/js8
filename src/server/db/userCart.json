@@ -1,0 +1,20 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 124,
+            "product_name": "Апельсины, 1кг.",
+            "price": 200,
+            "image": "oranges.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Ягода замороженная, 400гр.",
+            "price": 350,
+            "image": "berry.jpg"
+        }
+    ]
+}

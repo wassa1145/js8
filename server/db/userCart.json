@@ -1,0 +1,20 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_name": "Лимоны, 1кг.",
+            "price": 300,
+            "image": "lemon.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Свежая зелень, 1шт.",
+            "price": 90,
+            "image": "greens.jpg"
+        }
+    ]
+}
